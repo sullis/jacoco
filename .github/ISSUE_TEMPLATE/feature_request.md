@@ -2,7 +2,7 @@
 name: 'Feature request'
 about: 'Suggest a feature for JaCoCo'
 title:
-labels:
+labels: 'type: enhancement'
 assignes:
 
 ---

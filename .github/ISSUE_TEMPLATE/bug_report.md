@@ -2,7 +2,7 @@
 name: 'Bug report'
 about: 'Report a bug in JaCoCo'
 title:
-labels:
+labels: 'type: bug :bug:'
 assignes:
 
 ---
